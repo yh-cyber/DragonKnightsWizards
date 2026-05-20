@@ -5,7 +5,6 @@ Welcome to **Dragon, Knight, and Wizard**, a fantasy-themed twist on the classic
 Battle against the computer, track your scores in real-time, and view performance match statistics at the end.
 
 ICS3U Final Project
----
 
 ## 🎮 Game Rules
 
